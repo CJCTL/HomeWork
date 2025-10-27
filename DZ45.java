@@ -1,6 +1,6 @@
 package poza;
 
-public class DZ45 {
+public class ACTUALEXPECTED {
     public static void main(String[] args) {
         String expected = "Login successful";
 
