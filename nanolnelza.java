@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class nanolnelza {
+public class domashne4 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Введіть перше число: ");
