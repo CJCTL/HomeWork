@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class domashne4 {
+public class SafeDivision {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Введіть перше число: ");
